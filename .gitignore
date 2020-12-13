@@ -48,3 +48,10 @@ fastlane/Error*.png
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
+
+# Swift Package Manager
+.build/
+.swiftpm/xcode
+
+# xcframework archives
+archives/
