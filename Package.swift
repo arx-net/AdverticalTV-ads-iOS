@@ -12,8 +12,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdverticalTV_ads",
-            url: "https://github.com/arx-net/AdverticalTV-ads-iOS/releases/download/1.0.0/xcframework.zip",
-            checksum: "546b82f0232dc883e7fc36207868234fc46166f0ea8d9ed38679d9a9731fd7d3"
+            url: "https://github.com/arx-net/AdverticalTV-ads-iOS/releases/download/1.0.1/xcframework.zip",
+            checksum: "4ec11917183465ec307f437b82058262e314d26e13a7d6cca643ea164d7e11c0"
         )
     ],
     swiftLanguageVersions: [.v4, .v4_2, .v5]
